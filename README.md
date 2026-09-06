@@ -6,7 +6,7 @@ I care about what happens when a process crashes halfway through an update. Fail
 
 **Projects**
 
-- 🌱 [Sprout](https://github.com/Data-Corruption/Sprout) - Template for per-user Go CLIs and daemons. Shared SQLite state, background service, HTTPS dashboard, and signed updates with transactional installation and recovery. Linux + Windows, no cgo or npm. Tested across 11 feature variants and 8 distros.
+- 🌱 [Sprout](https://github.com/Data-Corruption/Sprout) - Template for per-user Go CLIs and daemons. Shared SQLite state, background service, HTTPS dashboard, and signed updates with transactional install and recovery. Linux + Windows, no cgo or npm. Tested across 11 feature variants and 8 distros.
 - 🪏 [Transplant](https://github.com/Data-Corruption/Transplant) - Setup wizard for Sprout, and the first real app built from it.
 - 🎮 Servo - Dedicated game-server manager with verb-based drivers. Built on Sprout.
 - 🔩 [Rails](https://github.com/Data-Corruption/rails) - An 8-bit processor and its ISA.
