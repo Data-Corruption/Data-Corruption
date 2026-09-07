@@ -11,7 +11,7 @@ I care about what happens when a process crashes halfway through an update. Fail
 - 🎮 Servo - Dedicated game-server manager with verb-based drivers. Built on Sprout.
 - 🔩 [Rails](https://github.com/Data-Corruption/rails) - An 8-bit processor and its ISA.
 
-Central California, an hour from SF. [Bluesky](https://bsky.app/profile/datacorruption.bsky.social) · [Xitter](https://x.com/ablative_data) · github.enjoyment146@passmail.net
+Bay Area, CA. [Xitter](https://x.com/ablative_data) · github.enjoyment146@passmail.net
 
 <!-- Open to senior infrastructure / systems roles, hybrid Bay Area or remote. -->
 
